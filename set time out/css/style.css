@@ -39,9 +39,10 @@
     padding: 0.7rem 1rem;
     background-color: #f0d98e;
     border-radius: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
 
 }
 .btn:hover{
     background-color: #a39460;
-    font-size: 1.2rem;
 }
