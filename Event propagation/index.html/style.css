@@ -1,0 +1,16 @@
+.flex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer{
+    margin:5rem;
+    height:400px;
+    width:400px;
+    background-color: red;
+}
+.inner{
+    height: 50%;
+    width: 50%;
+    background-color: gray;
+}
